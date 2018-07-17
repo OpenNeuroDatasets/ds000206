@@ -1,5 +1,0 @@
-Each subject dir contains several sessions dirs, each of which contain either an ADC dir, an fmaps dir, or both. 
-
-ADC:  ADC means appearant diffusion coefficient.  Some scanners in this dataset  produced DWI scalar images as part of the dicom outputs.
-
-fmaps: fmaps refers to fieldmaps. We put them in this sourcedata directory because the submitter did not have their acquisition information and weren't able to curate them.These were not used in the analysis.
