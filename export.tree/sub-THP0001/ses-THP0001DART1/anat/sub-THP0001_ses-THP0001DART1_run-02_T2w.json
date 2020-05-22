@@ -1,0 +1,11 @@
+{
+	"Manufacturer": "Philips",
+	"ManufacturersModelName": "Achieva",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 90,
+	"EchoTime": 0.18313,
+	"RepetitionTime": 2.5,
+	"PhaseEncodingDirection": "j",
+	"PulseSequenceType": "SPACE",
+	"PulseSequenceType": "MPRAGE"
+}
